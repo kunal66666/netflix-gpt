@@ -19,7 +19,26 @@ then after then as soon user is login or signup we have keep user data in redux 
 created redux storw with userslice
 implement signout
 update prpofile
-fetch from movies
+.bug fix sign up user displayname profile picture
+bugfix if user sign then only go to nrwose other wise return to root doirectry
+<!-- always add constant file -->
+<!-- unsubscibre to thr onauthstatechnaged callback -->
+add hards code value in cdonst file
+register tmdi api and create and app and get access token
+
+get data from tmdb now playinh movies list api
+--custom hook for now playing movies
+create movieslice
+update store with movies datas
+planning for maincointroller and secondry controller
+fetch data dfor trailro video
+update storw tih traileor video data
+embdeded the yputube video and make it autoplay and mute
+tailwind classes to look maincontianer it awesome 
+
+
+
+
 <!-- FEATURES -->
 
 <!-- login signup page -->
