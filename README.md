@@ -35,6 +35,22 @@ fetch data dfor trailro video
 update storw tih traileor video data
 embdeded the yputube video and make it autoplay and mute
 tailwind classes to look maincontianer it awesome 
+<!-- build secondry component -->
+-
+build movier list
+build movie card
+tmdb image url cdn
+made the browse page amazing with tailwind css
+usepopularmovies custom hooks
+--gpt search pagw
+--gpt search bar
+--multi language feature
+--integrate gpt api(get open api key)
+<!-- gpt search feature -->
+
+
+
+
 
 
 
